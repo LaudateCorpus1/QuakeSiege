@@ -1,4 +1,9 @@
+# QuakeSiege
+QuakeSiege is a First person tactical shooter inspiried by Ubisoft's Tom Clancy Rainbow Six Siege powered by the Quake 2 Engine developed by ID Software
 
+
+
+## Quake 2 Game Engine README
 This is the complete source code for Quake 2, version 3.19, buildable with
 visual C++ 6.0.  The linux version should be buildable, but we haven't
 tested it for the release.
